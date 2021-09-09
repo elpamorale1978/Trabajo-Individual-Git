@@ -1,0 +1,56 @@
+.body{
+    text-align: center;
+    padding: 0px;
+    width: 0px;
+}
+
+.banner{
+
+    background-color: rgb(177, 177, 80);
+    text-align: center;
+    text-decoration: solid;
+}
+
+.parrafo{
+    text-align: center;
+    background-color: rgb(114, 114, 30);
+}
+
+.mexico {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.piedepagina{
+    text-align: center;
+    background-color: black;
+    color: white
+
+}
+
+.pie{
+    padding-top: 25px;
+}
+
+.bloquemedio{
+    text-align: center;
+    background-color: rgb(172, 172, 172);
+    border: double;
+}
+
+.bloque1{
+    border: double;
+}
+
+.bloque2{
+    border: double;
+}
+
+.bloque3{
+    border: double;
+}
+
+.bloque2 .imagenesredes{
+    display: inline-block; 
+    margin-bottom: 10px;
+}
