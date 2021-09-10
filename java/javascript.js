@@ -1,0 +1,1 @@
+window.alert("BIENVENIDO A MI SITIO");
