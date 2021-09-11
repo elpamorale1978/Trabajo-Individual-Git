@@ -1,1 +1,1 @@
-window.alert("BIENVENIDO A MI SITIO");
+alert("Hola. Bienvenido a mi sitio")
