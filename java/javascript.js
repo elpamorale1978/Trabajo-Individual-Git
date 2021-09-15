@@ -14,3 +14,10 @@ function generarNuevoColor(){
 	document.body.style.background = color;
 	document.getElementById("text").innerHTML = "Copiar Color";
 }
+
+$(function(){
+
+	$(«.single-image»).fancybox();
+	
+	});
+});
