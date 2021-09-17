@@ -1,7 +1,6 @@
 alert("Hola. Bienvenido a mi sitio");
 
 
-
 function generarNuevoColor(){
 	var simbolos, color;
 	simbolos = "0123456789ABCDEF";
@@ -14,10 +13,3 @@ function generarNuevoColor(){
 	document.body.style.background = color;
 	document.getElementById("text").innerHTML = "Copiar Color";
 }
-
-$(function(){
-
-	$(«.single-image»).fancybox();
-	
-	});
-});
